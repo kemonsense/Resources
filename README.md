@@ -4,6 +4,9 @@ All the resources I am using...
 ## Python Tutorial
 1. https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
 
+## Channel I follow
+1. CodeBasics - https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ
+
 ## Books for Deep Learning
 1. Deep Learning with Python
 Book by François Chollet
