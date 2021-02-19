@@ -17,3 +17,9 @@ Book by François Chollet
 by Aurélien Géron
 3. The Hundred-Page Machine Learning Book
 Book by Andriy Burkov
+
+## Fourier Analysis
+1. https://www.youtube.com/watch?v=spUNpyF58BY
+
+## Frequency concept in an image
+1. https://www.youtube.com/watch?v=xrTor1uw5iI
